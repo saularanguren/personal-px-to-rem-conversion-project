@@ -27,4 +27,6 @@ int valid_input_format(char *character_string)
             return 1;
         }
     }
+
+    return 0;
 }
